@@ -3,11 +3,11 @@
   <title>SerendyLin&#39;s Empire</title>
   
   
-  <link href="https://blog.negroni.top/atom.xml" rel="self"/>
+  <link href="https://www.negroni.top/atom.xml" rel="self"/>
   
-  <link href="https://blog.negroni.top/"/>
+  <link href="https://www.negroni.top/"/>
   <updated>2025-04-02T04:06:55.395Z</updated>
-  <id>https://blog.negroni.top/</id>
+  <id>https://www.negroni.top/</id>
   
   <author>
     <name>Serendy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>深度学习笔记</title>
-    <link href="https://blog.negroni.top/2025/03/26/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    <id>https://blog.negroni.top/2025/03/26/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://www.negroni.top/2025/03/26/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://www.negroni.top/2025/03/26/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2025-03-26T14:23:13.000Z</published>
     <updated>2025-04-02T04:06:55.395Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="深度学习笔记" scheme="https://blog.negroni.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="深度学习笔记" scheme="https://www.negroni.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>CNN初步学习</title>
-    <link href="https://blog.negroni.top/2025/03/02/CNN%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
-    <id>https://blog.negroni.top/2025/03/02/CNN%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</id>
+    <link href="https://www.negroni.top/2025/03/02/CNN%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://www.negroni.top/2025/03/02/CNN%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0/</id>
     <published>2025-03-02T13:53:18.000Z</published>
     <updated>2025-03-26T14:22:05.132Z</updated>
     
@@ -53,17 +53,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="CNN学习笔记" scheme="https://blog.negroni.top/tags/CNN%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="CNN学习笔记" scheme="https://www.negroni.top/tags/CNN%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>Fuzz Learning</title>
-    <link href="https://blog.negroni.top/2024/09/16/FuzzLearning/"/>
-    <id>https://blog.negroni.top/2024/09/16/FuzzLearning/</id>
+    <link href="https://www.negroni.top/2024/09/16/FuzzLearning/"/>
+    <id>https://www.negroni.top/2024/09/16/FuzzLearning/</id>
     <published>2024-09-16T12:30:41.000Z</published>
     <updated>2025-03-01T10:00:53.388Z</updated>
     
@@ -77,17 +77,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="Fuzz" scheme="https://blog.negroni.top/tags/Fuzz/"/>
+    <category term="Fuzz" scheme="https://www.negroni.top/tags/Fuzz/"/>
     
   </entry>
   
   <entry>
     <title>LibAFL：A Framework to Build Modular and Reusable Fuzzers</title>
-    <link href="https://blog.negroni.top/2024/09/16/LibAFL/"/>
-    <id>https://blog.negroni.top/2024/09/16/LibAFL/</id>
+    <link href="https://www.negroni.top/2024/09/16/LibAFL/"/>
+    <id>https://www.negroni.top/2024/09/16/LibAFL/</id>
     <published>2024-09-16T09:16:41.000Z</published>
     <updated>2025-03-01T10:00:53.391Z</updated>
     
@@ -101,17 +101,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="论文阅读" scheme="https://blog.negroni.top/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/"/>
+    <category term="论文阅读" scheme="https://www.negroni.top/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/"/>
     
   </entry>
   
   <entry>
     <title>AFL源码分析</title>
-    <link href="https://blog.negroni.top/2024/09/11/AFL%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
-    <id>https://blog.negroni.top/2024/09/11/AFL%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/</id>
+    <link href="https://www.negroni.top/2024/09/11/AFL%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/"/>
+    <id>https://www.negroni.top/2024/09/11/AFL%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/</id>
     <published>2024-09-11T10:18:07.000Z</published>
     <updated>2025-03-01T10:00:53.386Z</updated>
     
@@ -122,17 +122,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="AFL学习笔记" scheme="https://blog.negroni.top/tags/AFL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="AFL学习笔记" scheme="https://www.negroni.top/tags/AFL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>模糊测试论文</title>
-    <link href="https://blog.negroni.top/2024/09/04/%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95%E8%AE%BA%E6%96%87/"/>
-    <id>https://blog.negroni.top/2024/09/04/%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95%E8%AE%BA%E6%96%87/</id>
+    <link href="https://www.negroni.top/2024/09/04/%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95%E8%AE%BA%E6%96%87/"/>
+    <id>https://www.negroni.top/2024/09/04/%E6%A8%A1%E7%B3%8A%E6%B5%8B%E8%AF%95%E8%AE%BA%E6%96%87/</id>
     <published>2024-09-04T13:33:27.000Z</published>
     <updated>2025-03-01T10:00:53.405Z</updated>
     
@@ -143,17 +143,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="论文阅读笔记" scheme="https://blog.negroni.top/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    <category term="论文阅读笔记" scheme="https://www.negroni.top/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>编译原理笔记</title>
-    <link href="https://blog.negroni.top/2024/01/10/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/"/>
-    <id>https://blog.negroni.top/2024/01/10/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://www.negroni.top/2024/01/10/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/"/>
+    <id>https://www.negroni.top/2024/01/10/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</id>
     <published>2024-01-10T13:34:34.000Z</published>
     <updated>2025-03-01T10:00:53.410Z</updated>
     
@@ -168,14 +168,14 @@
     
     
     
-    <category term="Notes" scheme="https://blog.negroni.top/tags/Notes/"/>
+    <category term="Notes" scheme="https://www.negroni.top/tags/Notes/"/>
     
   </entry>
   
   <entry>
     <title>算法与程序设计</title>
-    <link href="https://blog.negroni.top/2023/09/23/%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
-    <id>https://blog.negroni.top/2023/09/23/%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</id>
+    <link href="https://www.negroni.top/2023/09/23/%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://www.negroni.top/2023/09/23/%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</id>
     <published>2023-09-23T12:53:05.000Z</published>
     <updated>2025-03-01T10:00:53.407Z</updated>
     
@@ -186,17 +186,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="算法课笔记" scheme="https://blog.negroni.top/tags/%E7%AE%97%E6%B3%95%E8%AF%BE%E7%AC%94%E8%AE%B0/"/>
+    <category term="算法课笔记" scheme="https://www.negroni.top/tags/%E7%AE%97%E6%B3%95%E8%AF%BE%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>常见的大素数判断算法和Miller-Rabin素判断算法的原理实现</title>
-    <link href="https://blog.negroni.top/2023/05/17/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%A4%A7%E7%B4%A0%E6%95%B0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E5%92%8CMiller-Rabin%E7%B4%A0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0/"/>
-    <id>https://blog.negroni.top/2023/05/17/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%A4%A7%E7%B4%A0%E6%95%B0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E5%92%8CMiller-Rabin%E7%B4%A0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0/</id>
+    <link href="https://www.negroni.top/2023/05/17/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%A4%A7%E7%B4%A0%E6%95%B0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E5%92%8CMiller-Rabin%E7%B4%A0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0/"/>
+    <id>https://www.negroni.top/2023/05/17/%E5%B8%B8%E8%A7%81%E7%9A%84%E5%A4%A7%E7%B4%A0%E6%95%B0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E5%92%8CMiller-Rabin%E7%B4%A0%E5%88%A4%E6%96%AD%E7%AE%97%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E5%AE%9E%E7%8E%B0/</id>
     <published>2023-05-17T11:27:58.000Z</published>
     <updated>2025-03-01T10:00:53.397Z</updated>
     
@@ -210,17 +210,17 @@
     
     
     
-    <category term="Project" scheme="https://blog.negroni.top/categories/Project/"/>
+    <category term="Project" scheme="https://www.negroni.top/categories/Project/"/>
     
     
-    <category term="homework" scheme="https://blog.negroni.top/tags/homework/"/>
+    <category term="homework" scheme="https://www.negroni.top/tags/homework/"/>
     
   </entry>
   
   <entry>
     <title>加密算法逆向总结</title>
-    <link href="https://blog.negroni.top/2023/05/10/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.negroni.top/2023/05/10/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E6%80%BB%E7%BB%93/</id>
+    <link href="https://www.negroni.top/2023/05/10/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E6%80%BB%E7%BB%93/"/>
+    <id>https://www.negroni.top/2023/05/10/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E6%80%BB%E7%BB%93/</id>
     <published>2023-05-10T01:56:01.000Z</published>
     <updated>2025-03-01T10:00:53.395Z</updated>
     
@@ -231,17 +231,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="汇编逆向" scheme="https://blog.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
+    <category term="汇编逆向" scheme="https://www.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
     
   </entry>
   
   <entry>
     <title>加密算法逆向实践</title>
-    <link href="https://blog.negroni.top/2023/05/02/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E5%AE%9E%E8%B7%B5/"/>
-    <id>https://blog.negroni.top/2023/05/02/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E5%AE%9E%E8%B7%B5/</id>
+    <link href="https://www.negroni.top/2023/05/02/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E5%AE%9E%E8%B7%B5/"/>
+    <id>https://www.negroni.top/2023/05/02/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91%E5%AE%9E%E8%B7%B5/</id>
     <published>2023-05-01T16:02:48.000Z</published>
     <updated>2025-03-01T10:00:53.394Z</updated>
     
@@ -252,17 +252,17 @@
     
     
     
-    <category term="Project" scheme="https://blog.negroni.top/categories/Project/"/>
+    <category term="Project" scheme="https://www.negroni.top/categories/Project/"/>
     
     
-    <category term="汇编逆向" scheme="https://blog.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
+    <category term="汇编逆向" scheme="https://www.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
     
   </entry>
   
   <entry>
     <title>MD5加密算法逆向</title>
-    <link href="https://blog.negroni.top/2023/04/21/MD5%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91/"/>
-    <id>https://blog.negroni.top/2023/04/21/MD5%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91/</id>
+    <link href="https://www.negroni.top/2023/04/21/MD5%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91/"/>
+    <id>https://www.negroni.top/2023/04/21/MD5%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95%E9%80%86%E5%90%91/</id>
     <published>2023-04-21T09:20:57.000Z</published>
     <updated>2025-03-01T10:00:53.392Z</updated>
     
@@ -273,17 +273,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="汇编逆向" scheme="https://blog.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
+    <category term="汇编逆向" scheme="https://www.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
     
   </entry>
   
   <entry>
     <title>汇编冒泡排序</title>
-    <link href="https://blog.negroni.top/2023/04/21/%E6%B1%87%E7%BC%96%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/"/>
-    <id>https://blog.negroni.top/2023/04/21/%E6%B1%87%E7%BC%96%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</id>
+    <link href="https://www.negroni.top/2023/04/21/%E6%B1%87%E7%BC%96%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/"/>
+    <id>https://www.negroni.top/2023/04/21/%E6%B1%87%E7%BC%96%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</id>
     <published>2023-04-21T03:32:51.000Z</published>
     <updated>2025-03-01T10:00:53.406Z</updated>
     
@@ -294,17 +294,17 @@
     
     
     
-    <category term="Project" scheme="https://blog.negroni.top/categories/Project/"/>
+    <category term="Project" scheme="https://www.negroni.top/categories/Project/"/>
     
     
-    <category term="汇编逆向" scheme="https://blog.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
+    <category term="汇编逆向" scheme="https://www.negroni.top/tags/%E6%B1%87%E7%BC%96%E9%80%86%E5%90%91/"/>
     
   </entry>
   
   <entry>
     <title>数据库技术与应用</title>
-    <link href="https://blog.negroni.top/2023/02/28/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/"/>
-    <id>https://blog.negroni.top/2023/02/28/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</id>
+    <link href="https://www.negroni.top/2023/02/28/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/"/>
+    <id>https://www.negroni.top/2023/02/28/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</id>
     <published>2023-02-28T11:14:21.000Z</published>
     <updated>2025-03-01T10:00:53.401Z</updated>
     
@@ -315,17 +315,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="Note" scheme="https://blog.negroni.top/tags/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/tags/Note/"/>
     
   </entry>
   
   <entry>
     <title>操作系统</title>
-    <link href="https://blog.negroni.top/2023/02/27/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    <id>https://blog.negroni.top/2023/02/27/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://www.negroni.top/2023/02/27/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://www.negroni.top/2023/02/27/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
     <published>2023-02-27T11:03:29.000Z</published>
     <updated>2025-03-01T10:00:53.400Z</updated>
     
@@ -336,17 +336,17 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="Note" scheme="https://blog.negroni.top/tags/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/tags/Note/"/>
     
   </entry>
   
   <entry>
     <title>计算机网络</title>
-    <link href="https://blog.negroni.top/2023/02/26/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
-    <id>https://blog.negroni.top/2023/02/26/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
+    <link href="https://www.negroni.top/2023/02/26/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <id>https://www.negroni.top/2023/02/26/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
     <published>2023-02-26T00:48:45.000Z</published>
     <updated>2025-03-01T10:00:53.413Z</updated>
     
@@ -357,10 +357,10 @@
     
     
     
-    <category term="Note" scheme="https://blog.negroni.top/categories/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/categories/Note/"/>
     
     
-    <category term="Note" scheme="https://blog.negroni.top/tags/Note/"/>
+    <category term="Note" scheme="https://www.negroni.top/tags/Note/"/>
     
   </entry>
   
